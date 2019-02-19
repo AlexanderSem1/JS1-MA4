@@ -1,0 +1,36 @@
+1. What is the DOM?
+
+DOM stands for Document Object Model and defines a standard how to access HTML pages. DOM helps us to structure our code and write scripts and functions by referencing to placement of elements on the DOM and manipulate the elements.  
+ 
+2. List three methods to manipulate the DOM.
+
+Add
+Delete
+Update 
+
+3. What is an asynchronous call?
+
+When a piece of code is being executed, asynchronous call will not block the code from executing or wait for event call e.g. API to return. 
+
+4. Briefly explain what the sources tab in Chromes Developers Tools does.
+
+The source tab in Chrome dev tool provides us access to source files where we can directly in the window run to debug our code. 
+
+
+5. What is a JavaScript promise?
+
+Promise in javascript is a method used when piece of code is being executed and a "placeholder" for a return call is expected. A promise can either be successful or failure depending on when the code is executed and the result is returned.   
+
+
+6. What is an API?
+
+Stands for Application Programming Interface and specifics how two or more independent code/programs can interact with each other. 
+
+7. What is a JavaScript Event?
+
+JavaScript event is action or happening that is triggered by e.g. a user fills a form and clicks a submit button, this will trigger a set of activities that will need to be executed as part of the event. 
+
+
+8. What is event bubbling?
+
+Event bubbling can be best described as a starting point for a code to be executed that is trigged by an action to a specific element e.g. click of a button   
